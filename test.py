@@ -5,7 +5,7 @@ Created on Wed Dec 11 16:36:00 2024
 
 @author: nicolasfihey
 """
-
+print ("Hello world")
 L=[]
 for i in range (10):
     L.append(i)
